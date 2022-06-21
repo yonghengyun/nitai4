@@ -193,7 +193,7 @@ CREATE TABLE `xf_user` (
 
 LOCK TABLES `xf_user` WRITE;
 /*!40000 ALTER TABLE `xf_user` DISABLE KEYS */;
-INSERT INTO `xf_user` VALUES (1,'admin','e10adc3949ba59abbe56e057f20f883e','/storage/avatar/0f/a1c04e2a284c4fd21b81a31283ebed.jpg','小枫',19,'江西','想你',1809185784,'/storage/avatar/d0/db9ac840ffb97d745ee3d4646c95a9.jpg','https://space.bilibili.com/349762020?spm_id_from=333.1007.0.0','本站前端源代码以及UI图由小枫原创，采用GPL3.0开源协议！','阿婆枫 | UP Maple');
+INSERT INTO `xf_user` VALUES (1,'admin','e10adc3949ba59abbe56e057f20f883e','/storage/avatar/0f/a1c04e2a284c4fd21b81a31283ebed.jpg','小枫',19,'江西','想你',1809185784,'/storage/avatar/d0/db9ac840ffb97d745ee3d4646c95a9.jpg','https://space.bilibili.com/349762020?spm_id_from=333.1007.0.0','本站前端源代码以及UI图由小枫原创，采用GPL2.0开源协议！','阿婆枫 | UP Maple');
 /*!40000 ALTER TABLE `xf_user` ENABLE KEYS */;
 UNLOCK TABLES;
 
