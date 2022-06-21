@@ -43,7 +43,7 @@ location / {
 音乐播放器地址：https://music.xfyun.club
 
 
-视频教程：
+视频教程：https://www.bilibili.com/video/BV11Y4y1g7pT/
 
 开源地址：https://gitee.com/xfwlclub/nitai4
 
