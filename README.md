@@ -5,7 +5,7 @@
 
 QQ：1809185784
 
-官网：[www.xfwl.club](http://www.xfwl.club)
+官网：[www.xfabe.com](http://www.xfabe.com)
 
 #### 技术栈
 UI：Photoshop
@@ -47,7 +47,7 @@ location / {
 
 开源地址：https://gitee.com/xfwlclub/nitai4
 
-演示站：https://nitai4.xfwl.club
+演示站：https://nitai4.xfabe.com
 
 #### 关于插件
 
