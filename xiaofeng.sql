@@ -69,7 +69,7 @@ CREATE TABLE `xf_friend` (
 
 LOCK TABLES `xf_friend` WRITE;
 /*!40000 ALTER TABLE `xf_friend` DISABLE KEYS */;
-INSERT INTO `xf_friend` VALUES (20,1,'小枫音乐播放器','https://music.xfyun.club','https://www.xfwl.club/favicon.ico','1809185784@qq.com','小枫音乐播放器是一款功能强大的HTML悬浮播放器。',0,'2022-06-18 22:05:29'),(22,1,'小枫网络','https://www.xfwl.club','https://www.xfwl.club/favicon.ico','1809185784@qq.com','小枫网络是一家免费资源共享平台,专为新手打造的免费共享资源网',1,'2022-06-18 23:02:34'),(23,1,'小枫网络','https://www.xfwl.club','https://www.xfwl.club/favicon.ico','1809185784@qq.com','小枫网络是一家免费资源共享平台,专为新手打造的免费共享资源网',0,'2022-06-18 23:03:52');
+INSERT INTO `xf_friend` VALUES (20,1,'小枫音乐播放器','https://music.xfyun.club','https://www.xfabe.com/favicon.ico','1809185784@qq.com','小枫音乐播放器是一款功能强大的HTML悬浮播放器。',0,'2022-06-18 22:05:29'),(22,1,'小枫网络','https://www.xfabe.com','https://www.xfabe.com/favicon.ico','1809185784@qq.com','小枫网络是一家免费资源共享平台,专为新手打造的免费共享资源网',1,'2022-06-18 23:02:34'),(23,1,'小枫网络','https://www.xfabe.com','https://www.xfabe.com/favicon.ico','1809185784@qq.com','小枫网络是一家免费资源共享平台,专为新手打造的免费共享资源网',0,'2022-06-18 23:03:52');
 /*!40000 ALTER TABLE `xf_friend` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -158,7 +158,7 @@ CREATE TABLE `xf_system` (
 
 LOCK TABLES `xf_system` WRITE;
 /*!40000 ALTER TABLE `xf_system` DISABLE KEYS */;
-INSERT INTO `xf_system` VALUES (1,'Copyright © 2022','小枫拟态ui4.0','Mimic UI4.0','https://www.xfwl.club','赣ICP备2020011714号','拟态ui设计,拟态源码,引导页,个人引导页,个人主页,个人介绍页,拟态引导页,简约个人主页,个人主页源码','拟态UI设计是小枫原创的一款简约平滑开源的个人主页设计。','小枫QQ1809185784','951649263','https://www.xfwl.club/favicon.ico','2022-06-18','606e5a8824639',1);
+INSERT INTO `xf_system` VALUES (1,'Copyright © 2022','小枫拟态ui4.0','Mimic UI4.0','https://www.xfabe.com','赣ICP备2020011714号','拟态ui设计,拟态源码,引导页,个人引导页,个人主页,个人介绍页,拟态引导页,简约个人主页,个人主页源码','拟态UI设计是小枫原创的一款简约平滑开源的个人主页设计。','小枫QQ1809185784','951649263','https://www.xfabe.com/favicon.ico','2022-06-18','606e5a8824639',1);
 /*!40000 ALTER TABLE `xf_system` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -218,7 +218,7 @@ CREATE TABLE `xf_website` (
 
 LOCK TABLES `xf_website` WRITE;
 /*!40000 ALTER TABLE `xf_website` DISABLE KEYS */;
-INSERT INTO `xf_website` VALUES (1,'小枫网络','http://www.xfwl.club'),(2,'h5音乐播放器','http://music.xfyun.club'),(3,'联系小枫','http://wpa.qq.com/msgrd?v=3&uin=1809185784&site=qq&menu=yes'),(4,'cpdd','http://wpa.qq.com/msgrd?v=3&uin=1809185784&site=qq&menu=yes');
+INSERT INTO `xf_website` VALUES (1,'小枫网络','http://www.xfabe.com'),(2,'h5音乐播放器','http://music.xfyun.club'),(3,'联系小枫','http://wpa.qq.com/msgrd?v=3&uin=1809185784&site=qq&menu=yes'),(4,'cpdd','http://wpa.qq.com/msgrd?v=3&uin=1809185784&site=qq&menu=yes');
 /*!40000 ALTER TABLE `xf_website` ENABLE KEYS */;
 UNLOCK TABLES;
 
